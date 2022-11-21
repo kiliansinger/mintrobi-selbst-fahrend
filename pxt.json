@@ -9,7 +9,9 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "tutorial1.md",
+        "_locales/de-DE/tutorial1.md"
     ],
     "testFiles": [
         "test.ts"
@@ -25,7 +27,7 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj",
+    "preferredEditor": "tsprj",
     "yotta": {
         "config": {
             "microbit-dal": {
